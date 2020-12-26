@@ -1,0 +1,43 @@
+.Welcome {
+  margin: 15% 15%;
+  margin-bottom: 0;
+  display: block;
+  width: 50%;
+  height: 30%;
+  color: #657786;
+  height: 100vh;
+}
+
+.Title {
+  font-family: "Alata";
+  color: #657786;
+  font-size: 2rem;
+  padding-bottom: 15px;
+}
+
+.Name {
+  /* color: #ccd6f6; */
+  color: #e1e8ed;
+  font-size: 4.5rem;
+  margin-top: 4rem 0;
+  padding-bottom: 25px;
+}
+
+.Motto {
+  /* color: #8892af; */
+  /*color: #657786;*/
+  color: #1da1f2;
+  padding-bottom: 15px;
+}
+
+.Description {
+  color: #657786;
+  font-size: 1.5rem;
+}
+
+@media screen and (max-width: 450px) {
+  .Welcome {
+    width: auto;
+    text-align: center;
+  }
+}

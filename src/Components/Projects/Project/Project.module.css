@@ -1,0 +1,51 @@
+.Project {
+  text-align: center;
+  margin: 15px;
+  border-radius: 10px;
+  height: 300px;
+}
+
+img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.Overview {
+  background-color: #e1e8ed;
+  padding: 5%;
+  font-family: "Alata", sans-serif;
+  overflow: hidden;
+}
+
+.Badge {
+  font-size: 0.8rem !important;
+  margin: 5px;
+  /* background-color: #1da1f2 !important; */
+  border: 2px solid #1da1f2;
+  background-color: #14171a !important;
+  padding: 7px !important;
+  color: #e1e8ed !important;
+}
+
+.Title {
+  font-size: 2rem;
+  font-family: "Alata", sans-serif;
+  font-weight: 500;
+  color: #14171a;
+  margin-bottom: 10%;
+}
+
+.Summary {
+  font-family: "poppins";
+  font-size: 1.5rem;
+  margin-bottom: 8%;
+  margin-top: 1rem;
+  color: #657786;
+}
+
+.Image {
+  background-image: url("../../../assets/UWScheduler.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}

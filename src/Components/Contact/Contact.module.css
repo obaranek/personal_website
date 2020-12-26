@@ -1,0 +1,19 @@
+.Contact {
+  margin: 5% 15%;
+  margin-top: 200px;
+  color: #aab8c2;
+  font-family: "poppins";
+  text-align: center;
+}
+
+.Title {
+  font-size: 3rem;
+  padding-bottom: 20px;
+  color: #1da1f2;
+  font-family: "Alata";
+}
+
+.Content {
+  font-size: 1.5em;
+  padding-bottom: 20px;
+}

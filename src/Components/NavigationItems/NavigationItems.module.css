@@ -1,0 +1,32 @@
+.NavigationItems {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  height: 100%;
+  justify-content: flex-end;
+  padding-right: 20px;
+}
+
+@media (min-width: 500px) {
+  .NavigationItems {
+    flex-flow: row;
+  }
+}
+
+.Active {
+  padding-bottom: 5px;
+}
+
+.Active:hover,
+.Active:active .Active:visited,
+.Active:link,
+.Active:focus {
+  text-decoration: none;
+}
+
+.Active:hover {
+  border-bottom: 2px solid #1da1f2;
+}

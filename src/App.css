@@ -1,0 +1,30 @@
+/* .PrivateTabIndicator-colorSecondary-5 { */
+/*   background-color: #1da1f2 !important; */
+/* } */
+
+.App {
+  margin: 0 auto;
+}
+
+/* .PrivateTabIndicator-vertical-6 { */
+/*   left: 0; */
+/* } */
+
+button:focus {
+  outline: 0 !important;
+}
+
+/* .MuiTab-textColorInherit { */
+/*   font-family: "Alata" !important; */
+/*   font-size: 2rem !important; */
+/*   text-align: left !important; */
+/* } */
+
+body.modal-open {
+  overflow: visible;
+}
+
+.Container {
+  margin: 0 auto;
+  width: 80%;
+}

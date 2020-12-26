@@ -1,0 +1,63 @@
+.AboutMe {
+  color: #aab8c2;
+  margin: 20px;
+  padding-top: 50px;
+  font-family: "poppins";
+}
+
+.AboutMe h1 {
+  font-family: "Alata";
+  color: #1da1f2;
+  padding-bottom: 50px;
+}
+
+.Content {
+  display: flex;
+}
+
+.Text {
+  width: 60%;
+  margin-right: 40px;
+  font-size: 1.5rem;
+}
+
+.ImageDiv {
+  width: 25%;
+}
+
+.ImageDiv img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 450px) {
+  .AboutMe {
+    margin: 0;
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
+
+  .AboutMe h1 {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+
+  .Content {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .Text {
+    text-align: center;
+    margin-right: 0px;
+    width: 100%;
+  }
+
+  .ImageDiv {
+    width: 90%;
+    margin-bottom: 30px;
+  }
+}

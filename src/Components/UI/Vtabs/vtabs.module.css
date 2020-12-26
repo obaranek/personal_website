@@ -1,0 +1,14 @@
+.Title {
+  color: "#1da1f2 !important";
+}
+
+.CourseTitle {
+  color: #1da1f2;
+  font-family: "Alata";
+}
+
+.CourseDesc {
+  font-size: 1.25rem;
+  font-family: "poppins";
+  color: #aab8c2;
+}

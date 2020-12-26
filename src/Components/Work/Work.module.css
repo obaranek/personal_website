@@ -1,0 +1,92 @@
+.Container {
+  width: 100%;
+  margin-top: 300px;
+}
+.Work {
+  display: flex;
+  flex-direction: row;
+  background-color: inherit;
+  margin-top: 100px;
+}
+
+.Logo {
+  width: 20%;
+  border-right: 2px dashed #e1e8ed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.Image {
+  height: 150px;
+  width: 150px;
+}
+
+.Desc {
+  width: 70%;
+  padding: 20px;
+  padding-top: 0;
+  font-family: "poppins";
+}
+
+.Desc p {
+  font-size: 1.5rem;
+  color: #aab8c2;
+}
+
+.Desc span {
+  font-size: 2rem;
+  color: #1da1f2;
+}
+
+.Parag {
+  margin-top: 30px;
+}
+
+h1 {
+  font-family: "Alata";
+  color: #1da1f2;
+}
+
+h2 {
+  color: #e1e8ed;
+  font-family: "Alata";
+}
+
+h4 {
+  font-style: italic;
+  color: #aab8c2;
+}
+
+.Logo h1 {
+  color: #e1e8ed;
+}
+
+@media only screen and (max-width: 800px) {
+  .Work {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+  .Logo {
+    border-right: none;
+    border-bottom: white 1px dashed;
+    text-align: center;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    width: 60%;
+  }
+  h1 {
+    text-align: center;
+  }
+  .Desc {
+    width: 90%;
+    text-align: center;
+    padding: 0;
+  }
+  .Parag {
+    text-align: left;
+  }
+}
