@@ -3,6 +3,7 @@
   margin: 15px;
   border-radius: 10px;
   height: 300px;
+  cursor: pointer;
 }
 
 img {
