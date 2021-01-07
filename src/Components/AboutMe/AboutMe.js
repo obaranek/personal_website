@@ -13,13 +13,14 @@ const AboutMe = () => {
             university of Waterloo studying Computer Science.{" "}
           </p>
           <p>
-            I love learning about Backend development, Machine Learning, and all
-            things related to tech. My mission is to build projects that inspire
-            change in people's lives.
+            I am a self-driven developer with a constant desire to learn and improve my skills valuing team collaboration, commitment and integrity at work.
+            I am passionate about software development, back-end development, open-source software and eveything Linux!
           </p>
           <p>
-            Besides computer science, I enjoy playing football and ping pong, as
-            well as listening to hip-hop music!
+            In my free time, catch my at football court, a ping-pong table or at a gym. I am also guilty of distro-hopping Linux distributions.
+          </p>
+          <p>
+            I would love to chat about with you about anything related to the industry, my favourite linux distributions or anything else!
           </p>
         </div>
         <div className={classes.ImageDiv}>

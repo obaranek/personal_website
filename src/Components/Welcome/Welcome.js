@@ -10,11 +10,16 @@ const welcome = (props) => {
       <h1 className={classes.Name}>Omar Baranek</h1>
       <h2 className={classes.Motto}>I am a passionate developer.</h2>
       <p className={classes.Description}>
-        I am currently a Computer Science major at the university of Waterloo. I
-        am interested in{" "}
-        <span style={{ color: "#1da1f2" }}>Backend Development</span> and{" "}
-        <span style={{ color: "#1da1f2" }}>Machine Learning</span>. You can
-        checkout my{" "}
+        I am currently a{" "}
+        <span style={{ color: "#1da1f2" }}>Computer Science</span> ,{" "}
+        major at the University of Waterloo. I
+        am inerested in{" "}
+        <span style={{ color: "#1da1f2" }}>Software Development</span> ,{" "}
+        <span style={{ color: "#1da1f2" }}>Back-end Development</span>, {"and "}
+        <span style={{ color: "#1da1f2" }}>Linux</span>.
+        <br/>
+        <br />
+        You can checkout my{" "}
         <a href={Resume} target="_blank" rel="noopener noreferrer">
           <span style={{ color: "#1da1f2" }}>resume</span>
         </a>{" "}
