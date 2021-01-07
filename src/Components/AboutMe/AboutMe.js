@@ -13,8 +13,8 @@ const AboutMe = () => {
             university of Waterloo studying Computer Science.{" "}
           </p>
           <p>
-            I am a self-driven developer with a constant desire to learn and improve my skills valuing team collaboration, commitment and integrity at work.
-            I am passionate about software development, back-end development, open-source software and eveything Linux!
+            I'm a self-driven developer who values team collaboration, commitment and integrity at work. With a constant desire to learn, I
+            am seeking challenging opportunities to broaden my knowledge about back-end development, Linux and other areas.
           </p>
           <p>
             In my free time, catch my at a football court, a ping-pong table or at a gym. I am also guilty of distro-hopping Linux distributions.
