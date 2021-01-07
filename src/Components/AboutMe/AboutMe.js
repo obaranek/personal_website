@@ -17,7 +17,7 @@ const AboutMe = () => {
             I am passionate about software development, back-end development, open-source software and eveything Linux!
           </p>
           <p>
-            In my free time, catch my at football court, a ping-pong table or at a gym. I am also guilty of distro-hopping Linux distributions.
+            In my free time, catch my at a football court, a ping-pong table or at a gym. I am also guilty of distro-hopping Linux distributions.
           </p>
           <p>
             I would love to chat about with you about anything related to the industry, my favourite linux distributions or anything else!
