@@ -20,7 +20,7 @@ const AboutMe = () => {
             In my free time, catch my at a football court, a ping-pong table or at a gym. I am also guilty of distro-hopping Linux distributions.
           </p>
           <p>
-            I would love to chat about with you about anything related to the industry, my favourite linux distributions or anything else!
+            I would love to chat about with you about the industry, my favourite linux distributions or anything else!
           </p>
         </div>
         <div className={classes.ImageDiv}>
