@@ -5,6 +5,7 @@
 .CourseTitle {
   color: #1da1f2;
   font-family: "Alata";
+  cursor: pointer
 }
 
 .CourseDesc {

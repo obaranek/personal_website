@@ -82,8 +82,8 @@ export default function ScrollableTabsButtonPrevent(props) {
 
   const panels = Object.keys(props.courses).map((course, index) => (
     <TabPanel value={value} index={index}>
-      <h3 className={myclasses.CourseTitle}>{course}</h3>
-      <p className={myclasses.CourseDesc}>{props.courses[course]}</p>
+      <a href={props.courses[course].link}><h3 className={myclasses.CourseTitle}>{props.courses[course].title}</h3></a>
+      <p className={myclasses.CourseDesc}>{props.courses[course].desc}</p>
     </TabPanel>
   ));
 
