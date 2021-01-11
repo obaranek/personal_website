@@ -17,7 +17,7 @@ const AboutMe = () => {
             am seeking challenging opportunities to broaden my knowledge about back-end development, Linux and other areas.
           </p>
           <p>
-            In my free time, catch my at a football field, a ping-pong table or at a gym. I am also guilty of distro-hopping Linux distributions.
+            In my free time, catch my at a football pitch, a ping-pong table or at a gym. I am also guilty of distro-hopping Linux distributions.
           </p>
           <p>
             I would love to chat about with you about the industry, my favourite linux distributions or anything else!
