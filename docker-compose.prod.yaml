@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+  personal_website-prod:
+    container_name: personal_website-prod
+    build:
+      context: .
+      dockerfile: Dockerfile.prod
+    ports:
+      - '8877:80'
