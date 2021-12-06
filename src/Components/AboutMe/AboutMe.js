@@ -9,15 +9,15 @@ const AboutMe = () => {
       <div className={classes.Content}>
         <div className={classes.Text}>
           <p>
-            Hi! My name is Omar Baranek. I am a second year student at the
-            university of Waterloo studying Computer Science.{" "}
+            Hi! My name is Omar Baranek. I am a third year student at the
+            University of Waterloo studying Computer Science.{" "}
           </p>
           <p>
             I'm a self-driven developer who values team collaboration, commitment and integrity at work. With a constant desire to learn, I
             am seeking challenging opportunities to broaden my knowledge about back-end development, Linux and other areas.
           </p>
           <p>
-            In my free time, catch my at a football pitch, a ping-pong table or at a gym. I am also guilty of distro-hopping Linux distributions.
+            In my free time, catch me at a football pitch, a ping-pong table or at a gym. I am also guilty of distro-hopping Linux distributions.
           </p>
           <p>
             I would love to chat about with you about the industry, my favourite linux distributions or anything else!
