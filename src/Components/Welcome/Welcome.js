@@ -11,9 +11,9 @@ const welcome = (props) => {
       <h2 className={classes.Motto}>I am a passionate developer.</h2>
       <p className={classes.Description}>
         I am currently a{" "}
-        <span style={{ color: "#1da1f2" }}>Computer Science</span> ,{" "}
+        <span style={{ color: "#1da1f2" }}>Computer Science</span> {" "}
         major at the University of Waterloo. I
-        am inerested in{" "}
+        am interested in{" "}
         <span style={{ color: "#1da1f2" }}>Software Development</span> ,{" "}
         <span style={{ color: "#1da1f2" }}>Back-end Development</span>, {"and "}
         <span style={{ color: "#1da1f2" }}>Linux</span>.
